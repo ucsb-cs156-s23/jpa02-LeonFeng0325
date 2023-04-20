@@ -9,6 +9,7 @@
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>2.6.2</version>
+    <relativePath>../JPA02-LeonFeng0325/pom.xml</relativePath>
   </parent>
 
   <!-- (2) <groupId/> -->
